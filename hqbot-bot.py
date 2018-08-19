@@ -49,7 +49,7 @@ edit_msg_list = []
 edit_msg_list_length = 10
 
 filename = "botinfo.cfg"
-filedata = {"setup_info": {"copy_server_ids": ["456445523960791042"], "copy_channel_ids": ["459515052765216768"], "post_server_ids": ["478319635192610816", "455268032571244545", "478003659519688704"], "post_channel_ids": ["478320176161357825", "455269256133738506", "478059706355548162"]}, "memberlist": ["454205578537861121", "245365926080413696", "330813369898762240"], "wordlist": None, "case_sensitive_wordlist": None}
+filedata = {"setup_info": {"copy_server_ids": ["456445523960791042"], "copy_channel_ids": ["459515052765216768"], "post_server_ids": ["478319635192610816", "455268032571244545"], "post_channel_ids": ["478320176161357825", "455269256133738506"]}, "memberlist": ["454205578537861121", "245365926080413696", "330813369898762240"], "wordlist": None, "case_sensitive_wordlist": None}
 
 # try:
 # 	filehandle = open(filename)
